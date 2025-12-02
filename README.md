@@ -112,4 +112,4 @@ Tagger is a free, community-supported tool. For questions, bug reports, or featu
 
 ---
 
-Built with ❤️ by WAI · [Website](https://woden-ai.com)
+Built by Woden AI · [Website](https://woden-ai.com)
