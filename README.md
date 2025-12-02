@@ -108,7 +108,7 @@ Tagger is a free, community-supported tool. For questions, bug reports, or featu
 - **Feature Requests**: [GitHub Discussions](https://github.com/wodenagi/tagbot/discussions) - Share your ideas!
 - **Community Discussions**: Join conversations and share feedback on our [GitHub repository](https://github.com/wodenagi/tagbot)
 
-[Install PR Tagger](https://github.com/apps/wagi-pr-tagger) on your repositories today!
+[Install PR Tagger](https://github.com/apps/pr-insights-tagger) on your repositories today!
 
 ---
 
