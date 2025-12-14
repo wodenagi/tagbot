@@ -2,11 +2,11 @@
 
 ## The Problem
 
-Reviewers struggle to assess pull requests quickly. Without context on size, complexity, and risk, teams waste time evaluating scope, miss high-risk changes, and struggle to prioritize reviews effectively. This slows development velocity and increases the chance of issues reaching production.
+Reviewers find it challenging to evaluate pull requests quickly. Without information on size, complexity, and risk, teams waste time examining scope, overlook high-risk changes, and struggle to prioritise reviews efficiently. This hampers development speed and raises the chance that issues reach production.
 
 ## The Solution
 
-PR Tagger automatically analyzes every pull request and provides instant insights through intelligent labels and detailed analysis. Teams understand the scope, complexity, and risk of changes at a glance, enabling faster, more effective code reviews.
+PR Tagger automatically analyses every pull request and provides instant insights through intelligent labels and detailed analysis. Teams understand the scope, complexity, and risk of changes at a glance, enabling faster, more effective code reviews.
 
 **Completely free** - no token limits, usage caps, or hidden costs.
 
@@ -40,16 +40,16 @@ PR Tagger is **100% free** with no token limits, usage caps, or hidden costs. In
 
 ### Automatic Analysis
 
-PR Tagger analyzes every pull request automatically:
+PR Tagge analyses every pull request automatically:
 
 1. **Label Generation**: Adds size, complexity, risk, and type labels to the PR
-2. **Detailed Comment**: Posts comprehensive analysis with visual badges and metrics
+2. **Detailed Comment**: Posts a comprehensive analysis with visual badges and metrics
 3. **Email Notifications**: Analysis appears in GitHub notification emails with proper formatting
 4. **Risk Highlighting**: High-risk PRs are flagged for extra review attention
 
 ### Privacy & Security
 
-- Code analyzed in real-time, never stored
+- Codanalyzed in real-time, never stored
 - GitHub native - works within GitHub's security model
 - Minimal permissions (PR read access, label/comment write)
 - Open source friendly with fully transparent operation
